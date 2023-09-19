@@ -1,0 +1,72 @@
+.home-page{
+  height: 2250px;
+}
+
+.home-page .top img{
+  position: absolute;
+  top: 218px;
+  height: 780px;
+  width: 100%;
+}
+.home-page .group{
+  width: 850px;
+  top: 190px;
+}
+
+.top .make-your-BODY-SHAPE {
+  position: absolute;
+  font-size: 90px;
+  width: 850px;
+  font-style: normal;
+}
+
+.home-page .group .p{
+  padding-top: 50px;
+}
+
+.home-page .GET-STARTED {
+  top: 530px;
+}
+
+.home-page .text-wrapper-2 {
+  left: 28px;
+}
+
+.home-page .icons{
+  position: absolute;
+  width: 100%;
+  flex-shrink: 0;
+  top: 850px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 150px;
+}
+
+.home-page .icon{
+  width: 285px;
+  height: 303px;
+  border-radius: 23px;
+  background: #3B3B3B;
+}
+.home-page .icon_img{
+  margin: 21px 90px 45px 90px;
+}
+
+.home-page .icon_text{
+  margin: 0px 54px 22px 54px;
+  color: white;
+  width: 150px;
+  text-align: center;
+  padding-left: 10px;
+}
+
+.home-page .overlap-group {
+  position: relative;
+  width: 200px;
+  height: 52px;  
+}
+
+.home-page .overlap-8 {
+  top: 1250px;
+}

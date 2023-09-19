@@ -1,0 +1,1270 @@
+.home-page {
+    position: relative;
+    width: 1500px;
+    height: 4577px;
+    background-color: #000000;
+  }
+  
+  .home-page .risen-wang {
+    position: absolute;
+    width: 706px;
+    height: 518px;
+    top: 218px;
+    left: 680px;
+  }
+  
+  .home-page .group {
+    position: absolute;
+    width: 550px;
+    height: 436px;
+    top: 257px;
+    left: 50px;
+  }
+  
+  .home-page .div {
+    position: absolute;
+    width: 554px;
+    height: 344px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .make-your-BODY-SHAPE {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper {
+    font-weight: 300;
+  }
+  
+  .home-page .span {
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .home-page .p {
+    position: absolute;
+    width: 520px;
+    top: 252px;
+    left: 0;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .GET-STARTED {
+    position: absolute;
+    width: 202px;
+    height: 52px;
+    top: 384px;
+    left: 0;
+  }
+  
+  .home-page .overlap-group {
+    position: relative;
+    width: 200px;
+    height: 52px;
+    background-color: #ffed00;
+    border-radius: 20px;
+  }
+  
+  .home-page .text-wrapper-2 {
+    position: absolute;
+    top: 14px;
+    left: 46px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .free-workout {
+    position: absolute;
+    width: 1313px;
+    height: 676px;
+    top: 740px;
+    left: 48px;
+  }
+  
+  .home-page .overlap {
+    position: absolute;
+    width: 516px;
+    height: 676px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-2 {
+    position: absolute;
+    width: 401px;
+    height: 676px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-wrapper {
+    position: absolute;
+    width: 203px;
+    height: 60px;
+    top: 616px;
+    left: 37px;
+  }
+  
+  .home-page .overlap-group-wrapper {
+    width: 205px;
+    height: 60px;
+  }
+  
+  .home-page .div-wrapper {
+    position: relative;
+    width: 203px;
+    height: 60px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #ffed00;
+  }
+
+  .home-page .div-wrapper:hover{
+    position: relative;
+    width: 203px;
+    height: 60px;
+    background-color: #ffed00;
+    border-radius: 20px;
+  }
+
+  .home-page .div-wrapper:hover .text-wrapper-3{
+    color: #000;
+  }
+
+  .home-page .div-wrapper:hover .text-wrapper-11{
+    color: #000;
+  }
+  .home-page .div-wrapper:hover .text-wrapper-20{
+    color: #000;
+  }
+  
+  .home-page .text-wrapper-3 {
+    position: absolute;
+    top: 16px;
+    left: 47px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .overlap-2 {
+    position: absolute;
+    width: 223px;
+    height: 502px;
+    top: 80px;
+    left: 28px;
+    background-image: url(./img/yoga.png);
+    background-size: 100% 100%;
+  }
+  
+  .home-page .rectangle {
+    position: absolute;
+    width: 230px;
+    height: 494px;
+    top: 0;
+    left: 0px;
+    background-color: #000000c7;
+  }
+  
+  .home-page .text-wrapper-4 {
+    position: absolute;
+    top: 272px;
+    left: -21px;
+    transform: rotate(-90deg);
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .mod-to-ad {
+    position: absolute;
+    width: 219px;
+    height: 596px;
+    top: 80px;
+    left: 297px;
+  }
+  
+  .home-page .GET-STARTED-wrapper {
+    position: absolute;
+    width: 203px;
+    height: 60px;
+    top: 536px;
+    left: 6px;
+  }
+  
+  .home-page .GET-STARTED-2 {
+    height: 60px;
+  }
+  
+  .home-page .group-3 {
+    width: 203px;
+    height: 60px;
+  }
+  
+  .home-page .overlap-group-2 {
+    position: relative;
+    width: 203px;
+    height: 60px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #ffed00;
+  }
+  .home-page .overlap-group-2:hover {
+    position: relative;
+    width: 203px;
+    height: 60px;
+    background-color: #ffed00;
+    border-radius: 20px;
+    
+  }
+
+  .home-page .overlap-group-2:hover .text-wrapper-6{
+    color: #000;
+  }
+  
+  .home-page .text-wrapper-6 {
+    position: absolute;
+    top: 17px;
+    left: 48px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .overlap-3 {
+    position: absolute;
+    width: 217px;
+    height: 494px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-4 {
+    position: absolute;
+    width: 215px;
+    height: 494px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/group-5.png);
+    background-size: 100% 100%;
+  }
+  
+  .home-page .rectangle-2 {
+    position: absolute;
+    width: 217px;
+    height: 494px;
+    top: 0;
+    left: 0;
+    background-color: #00000080;
+  }
+  
+  .home-page .text-wrapper-7 {
+    position: absolute;
+    top: 235px;
+    left: -61px;
+    transform: rotate(-90deg);
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .weightloss {
+    position: absolute;
+    width: 217px;
+    height: 596px;
+    top: 80px;
+    left: 562px;
+  }
+  
+  .home-page .div-2 {
+    position: relative;
+    height: 596px;
+  }
+  
+  .home-page .cardio {
+    position: absolute;
+    width: 215px;
+    height: 494px;
+    top: 0;
+    left: 1px;
+    background-color: grey;
+  }
+  
+  .home-page .GET-STARTED-3 {
+    position: absolute;
+    width: 217px;
+    height: 596px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .overlap-group-wrapper-2 {
+    position: absolute;
+    width: 205px;
+    height: 60px;
+    top: 536px;
+    left: 7px;
+  }
+  
+  .home-page .overlap-wrapper {
+    position: absolute;
+    width: 219px;
+    height: 494px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .overlap-4 {
+    position: relative;
+    width: 217px;
+    height: 494px;
+    background-color: #000000c7;
+  }
+  
+  .home-page .text-wrapper-8 {
+    position: absolute;
+    top: 314px;
+    left: 19px;
+    transform: rotate(-90deg);
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .no-eq {
+    position: absolute;
+    width: 219px;
+    height: 596px;
+    top: 80px;
+    left: 829px;
+  }
+  
+  .home-page .rectangle-3 {
+    position: absolute;
+    width: 217px;
+    height: 494px;
+    top: 0;
+    left: 0;
+    background-color: #000000c7;
+  }
+  
+  .home-page .text-wrapper-9 {
+    position: absolute;
+    top: 299px;
+    left: 4px;
+    transform: rotate(-90deg);
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .strength {
+    position: absolute;
+    width: 219px;
+    height: 596px;
+    top: 80px;
+    left: 1096px;
+  }
+  
+  .home-page .text-wrapper-10 {
+    position: absolute;
+    top: 274px;
+    left: -21px;
+    transform: rotate(-90deg);
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-5 {
+    position: absolute;
+    width: 1345px;
+    height: 60px;
+    top: 1516px;
+    left: 48px;
+  }
+  
+  .home-page .group-6 {
+    position: absolute;
+    width: 205px;
+    height: 60px;
+    top: 0;
+    left: 1140px;
+  }
+  
+  .home-page .text-wrapper-11 {
+    position: absolute;
+    top: 16px;
+    left: 23px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-12 {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffed00;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-7 {
+    position: absolute;
+    width: 1354px;
+    height: 363px;
+    top: 1603px;
+    left: 39px;
+  }
+  
+  .home-page .overlap-5 {
+    position: absolute;
+    width: 676px;
+    height: 363px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-8 {
+    position: absolute;
+    width: 364px;
+    height: 363px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .overlap-6 {
+    position: relative;
+    height: 363px;
+  }
+  
+  .home-page .group-9 {
+    position: absolute;
+    width: 316px;
+    height: 128px;
+    top: 235px;
+    left: 25px;
+  }
+  
+  .home-page .overlap-group-3 {
+    position: relative;
+    width: 314px;
+    height: 128px;
+    background-color: #3b3b3b;
+  }
+  
+  .home-page .text-wrapper-13 {
+    position: absolute;
+    top: 77px;
+    left: 135px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .reusable-bag-top {
+    position: absolute;
+    width: 364px;
+    height: 355px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-10 {
+    position: absolute;
+    width: 314px;
+    height: 303px;
+    top: 60px;
+    left: 362px;
+  }
+  
+  .home-page .overlap-7 {
+    position: relative;
+    width: 316px;
+    height: 303px;
+  }
+  
+  .home-page .group-11 {
+    position: absolute;
+    width: 316px;
+    height: 128px;
+    top: 175px;
+    left: 0;
+  }
+  
+  .home-page .text-wrapper-14 {
+    position: absolute;
+    top: 77px;
+    left: 131px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .simple-t-shirt {
+    position: absolute;
+    width: 218px;
+    height: 234px;
+    top: 0;
+    left: 48px;
+  }
+  
+  .home-page .group-12 {
+    position: absolute;
+    width: 314px;
+    height: 303px;
+    top: 60px;
+    left: 1040px;
+  }
+  
+  .home-page .group-13 {
+    position: absolute;
+    width: 314px;
+    height: 303px;
+    top: 60px;
+    left: 702px;
+  }
+  
+  .home-page .text-wrapper-15 {
+    position: absolute;
+    top: 77px;
+    left: 126px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .screenshot {
+    position: absolute;
+    width: 98px;
+    height: 234px;
+    top: 0;
+    left: 108px;
+  }
+  
+  .home-page .group-14 {
+    position: absolute;
+    width: 1341px;
+    height: 691px;
+    top: 2066px;
+    left: 48px;
+  }
+  
+  .home-page .text-wrapper-16 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffed00;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .pics {
+    position: absolute;
+    width: 1335px;
+    height: 628px;
+    top: 63px;
+    left: 4px;
+  }
+  
+  .home-page .mask-group {
+    position: absolute;
+    width: 417px;
+    height: 303px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .img {
+    position: absolute;
+    width: 191px;
+    height: 303px;
+    top: 0;
+    left: 458px;
+  }
+  
+  .home-page .mask-group-2 {
+    position: absolute;
+    width: 191px;
+    height: 284px;
+    top: 344px;
+    left: 5px;
+  }
+  
+  .home-page .mask-group-3 {
+    position: absolute;
+    width: 405px;
+    height: 284px;
+    top: 344px;
+    left: 250px;
+  }
+  
+  .home-page .mask-group-4 {
+    position: absolute;
+    width: 417px;
+    height: 303px;
+    top: 0;
+    left: 680px;
+  }
+  
+  .home-page .mask-group-5 {
+    position: absolute;
+    width: 191px;
+    height: 303px;
+    top: 0;
+    left: 1138px;
+  }
+  
+  .home-page .mask-group-6 {
+    position: absolute;
+    width: 191px;
+    height: 284px;
+    top: 344px;
+    left: 685px;
+  }
+  
+  .home-page .mask-group-7 {
+    position: absolute;
+    width: 405px;
+    height: 284px;
+    top: 344px;
+    left: 930px;
+  }
+  
+  .home-page .overlap-8 {
+    position: absolute;
+    width: 1339px;
+    height: 1041px;
+    top: 3536px;
+    left: 50px;
+  }
+  
+  .home-page .line {
+    position: absolute;
+    width: 1px;
+    height: 210px;
+    top: 831px;
+    left: 593px;
+  }
+  
+  .home-page .group-15 {
+    position: absolute;
+    width: 1339px;
+    height: 959px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-16 {
+    position: absolute;
+    width: 1002px;
+    height: 292px;
+    top: 667px;
+    left: 170px;
+  }
+  
+  .home-page .lorem-ipsum-dolor {
+    position: absolute;
+    width: 1000px;
+    top: 162px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .home-page .gold-s-gym-logo {
+    position: absolute;
+    width: 138px;
+    height: 138px;
+    top: 0;
+    left: 431px;
+    object-fit: cover;
+  }
+  
+  .home-page .group-17 {
+    position: absolute;
+    width: 906px;
+    height: 105px;
+    top: 0;
+    left: 5px;
+  }
+  
+  .home-page .text-wrapper-17 {
+    position: absolute;
+    width: 902px;
+    top: 59px;
+    left: 0;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-18 {
+    position: absolute;
+    width: 1339px;
+    height: 442px;
+    top: 145px;
+    left: 0;
+  }
+  
+  .home-page .group-19 {
+    position: absolute;
+    width: 556px;
+    height: 394px;
+    top: 24px;
+    left: 0;
+  }
+  
+  .home-page .overlap-9 {
+    position: absolute;
+    width: 550px;
+    height: 90px;
+    top: 0;
+    left: 4px;
+    border-radius: 50px;
+  }
+  
+  .home-page .text-wrapper-18 {
+    left: 40px;
+    position: absolute;
+    top: 34px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .rectangle-4 {
+    position: absolute;
+    width: 550px;
+    height: 90px;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #ffed00;
+  }
+  
+  .home-page .group-20 {
+    position: absolute;
+    width: 552px;
+    height: 90px;
+    top: 114px;
+    left: 0;
+  }
+  
+  .home-page .overlap-group-4 {
+    position: relative;
+    width: 550px;
+    height: 90px;
+    border-radius: 50px;
+  }
+  
+  .home-page .text-wrapper-19 {
+    position: absolute;
+    top: 34px;
+    left: 44px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-21 {
+    position: absolute;
+    width: 552px;
+    height: 166px;
+    top: 228px;
+    left: 0;
+  }
+  
+  .home-page .overlap-10 {
+    position: relative;
+    width: 550px;
+    height: 166px;
+    border-radius: 50px;
+  }
+  
+  .home-page .rectangle-5 {
+    position: absolute;
+    width: 550px;
+    height: 166px;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #ffed00;
+  }
+  
+  .home-page .mask-group-8 {
+    position: absolute;
+    width: 503px;
+    height: 442px;
+    top: 0;
+    left: 836px;
+  }
+  
+  .home-page .group-22 {
+    position: absolute;
+    width: 1339px;
+    height: 580px;
+    top: 2856px;
+    left: 48px;
+  }
+  
+  .home-page .group-23 {
+    position: absolute;
+    width: 1313px;
+    height: 60px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-24 {
+    position: absolute;
+    width: 205px;
+    height: 60px;
+    top: 0;
+    left: 1108px;
+  }
+  
+  .home-page .text-wrapper-20 {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-25 {
+    position: absolute;
+    width: 1332px;
+    height: 492px;
+    top: 88px;
+    left: 7px;
+  }
+  
+  .home-page .group-26 {
+    position: absolute;
+    width: 368px;
+    height: 488px;
+    top: 0;
+    left: 964px;
+  }
+  
+  .home-page .group-27 {
+    position: absolute;
+    width: 227px;
+    height: 411px;
+    top: 38px;
+    left: 149px;
+  }
+  
+  .home-page .text-wrapper-21 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-22 {
+    position: absolute;
+    top: 127px;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-23 {
+    position: absolute;
+    top: 254px;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-24 {
+    position: absolute;
+    top: 381px;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-28 {
+    position: absolute;
+    width: 119px;
+    height: 488px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .mask-group-9 {
+    position: absolute;
+    width: 119px;
+    height: 107px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .mask-group-10 {
+    position: absolute;
+    width: 119px;
+    height: 107px;
+    top: 127px;
+    left: 0;
+  }
+  
+  .home-page .rectangle-6 {
+    position: absolute;
+    width: 119px;
+    height: 107px;
+    top: 254px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .home-page .rectangle-7 {
+    position: absolute;
+    width: 119px;
+    height: 107px;
+    top: 381px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .home-page .group-29 {
+    position: absolute;
+    width: 819px;
+    top: 4px;
+    left: 0;
+  }
+  
+  .home-page .mask-group-11 {
+    position: absolute;
+    height: 350px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group-30 {
+    position: absolute;
+    height: 350px;
+    align-items: center;
+    justify-content: space-between;
+    left: 412px;
+  }
+  
+  .home-page .text-wrapper-25 {
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Bold", Helvetica;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+  }
+  
+  .home-page .text-wrapper-26 {
+    position: absolute;
+    width: 330px;
+    top: 56px;
+    left: 0;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-31 {
+    position: absolute;
+    width: 257px;
+    height: 60px;
+    top: 240px;
+    left: 0;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #ffed00;
+  }
+  
+  .home-page .group-32 {
+    position: relative;
+    width: 205px;
+    height: 31px;
+    top: 10px;
+    left: 26px;
+  }
+  
+  .home-page .text-wrapper-27 {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .element {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 0;
+    left: 172px;
+  }
+  
+  .home-page .navbar {
+    position: absolute;
+    width: 1308px;
+    height: 87px;
+    top: 90px;
+    left: 71px;
+  }
+  
+  .home-page .gold-s-gym-logo-2 {
+    position: absolute;
+    width: 87px;
+    height: 87px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .home-page .text-wrapper-28 {
+    left: 673px;
+    position: absolute;
+    top: 32px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-29 {
+    position: absolute;
+    top: 32px;
+    left: 765px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-30 {
+    left: 1066px;
+    position: absolute;
+    top: 32px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-31 {
+    left: 1152px;
+    position: absolute;
+    top: 32px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-32 {
+    left: 962px;
+    position: absolute;
+    top: 32px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-33 {
+    position: absolute;
+    width: 66px;
+    height: 23px;
+    top: 32px;
+    left: 1238px;
+  }
+  
+  .home-page .text-wrapper-33 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .group-34 {
+    position: absolute;
+    width: 62px;
+    height: 28px;
+    top: 32px;
+    left: 573px;
+  }
+  
+  .home-page .text-wrapper-34 {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    font-family: "Outfit-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .line-2 {
+    position: absolute;
+    width: 60px;
+    height: 1px;
+    top: 27px;
+    left: 0;
+    object-fit: cover;
+  }
+
+  .navbar a:link {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: white;
+  }
+
+  .navbar a:visited {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: white;
+  }
+
+  .navbar a:hover {
+    color: silver;
+  }
+  
